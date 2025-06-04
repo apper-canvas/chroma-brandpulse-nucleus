@@ -11,23 +11,22 @@ const HomePageTemplate = ({ children }) => {
     setDarkMode(!darkMode)
     document.documentElement.classList.toggle('dark')
   }
-
-  return (
-    &lt;div className={`min-h-screen relative grain-texture ${darkMode ? 'dark' : ''}`}&gt;
-      &lt;PageHeader darkMode={darkMode} toggleDarkMode={toggleDarkMode} /&gt;
-      &lt;HeroSection /&gt;
+return (
+    <div className={`min-h-screen relative grain-texture ${darkMode ? 'dark' : ''}`}>
+      <PageHeader darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+      <HeroSection />
       
-      &lt;motion.section 
+      <motion.section 
         initial={{ opacity: 0, y: 40 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 0.4 }}
         className="relative z-10 px-4 sm:px-6 lg:px-8 pb-20"
-      &gt;
+      >
         {children}
-      &lt;/motion.section&gt;
+      </motion.section>
 
-      &lt;PageFooter /&gt;
-    &lt;/div&gt;
+      <PageFooter />
+    </div>
   )
 }
 
