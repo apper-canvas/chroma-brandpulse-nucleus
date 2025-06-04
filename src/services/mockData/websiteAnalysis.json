@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "url": "techstartup.com",
+    "mobileScore": 87,
+    "loadSpeed": 72,
+    "seoScore": 91,
+    "uxSuggestions": [
+      "Improve button contrast for better accessibility",
+      "Add loading states to forms",
+      "Optimize image alt text for screen readers"
+    ]
+  },
+  {
+    "id": 2,
+    "url": "fashionbrand.com",
+    "mobileScore": 94,
+    "loadSpeed": 68,
+    "seoScore": 83,
+    "uxSuggestions": [
+      "Reduce image file sizes",
+      "Implement lazy loading for product images",
+      "Add breadcrumb navigation"
+    ]
+  },
+  {
+    "id": 3,
+    "url": "fooddelivery.com",
+    "mobileScore": 76,
+    "loadSpeed": 89,
+    "seoScore": 78,
+    "uxSuggestions": [
+      "Improve mobile menu accessibility",
+      "Add search functionality",
+      "Optimize checkout flow"
+    ]
+  },
+  {
+    "id": 4,
+    "url": "consultingfirm.com",
+    "mobileScore": 91,
+    "loadSpeed": 84,
+    "seoScore": 95,
+    "uxSuggestions": [
+      "Add contact form validation",
+      "Improve call-to-action placement"
+    ]
+  },
+  {
+    "id": 5,
+    "url": "ecommerceshop.com",
+    "mobileScore": 82,
+    "loadSpeed": 71,
+    "seoScore": 86,
+    "uxSuggestions": [
+      "Optimize product filtering",
+      "Add customer reviews section",
+      "Improve product image zoom"
+    ]
+  },
+  {
+    "id": 6,
+    "url": "healthcareclinic.com",
+    "mobileScore": 88,
+    "loadSpeed": 76,
+    "seoScore": 92,
+    "uxSuggestions": [
+      "Add online appointment booking",
+      "Improve accessibility compliance",
+      "Optimize contact information display"
+    ]
+  },
+  {
+    "id": 7,
+    "url": "educationplatform.com",
+    "mobileScore": 93,
+    "loadSpeed": 81,
+    "seoScore": 89,
+    "uxSuggestions": [
+      "Add course progress tracking",
+      "Improve video player controls",
+      "Optimize mobile learning experience"
+    ]
+  },
+  {
+    "id": 8,
+    "url": "realestateteam.com",
+    "mobileScore": 79,
+    "loadSpeed": 73,
+    "seoScore": 85,
+    "uxSuggestions": [
+      "Add property search filters",
+      "Improve map integration",
+      "Optimize listing photo galleries"
+    ]
+  },
+  {
+    "id": 9,
+    "url": "restaurantgroup.com",
+    "mobileScore": 85,
+    "loadSpeed": 77,
+    "seoScore": 80,
+    "uxSuggestions": [
+      "Add online reservation system",
+      "Improve menu accessibility",
+      "Optimize location finder"
+    ]
+  },
+  {
+    "id": 10,
+    "url": "designstudio.com",
+    "mobileScore": 96,
+    "loadSpeed": 83,
+    "seoScore": 94,
+    "uxSuggestions": [
+      "Add portfolio filtering",
+      "Improve client testimonial display"
+    ]
+  }
+]

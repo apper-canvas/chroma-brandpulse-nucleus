@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "platform": "LinkedIn",
+    "profileUrl": "https://linkedin.com/company/techstartup",
+    "followers": 12500,
+    "engagementRate": 4.2,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "Excited to announce our new AI-powered features!",
+        "likes": 245,
+        "shares": 32,
+        "comments": 18
+      },
+      {
+        "id": 2,
+        "content": "Join us at the upcoming tech conference next month",
+        "likes": 189,
+        "shares": 28,
+        "comments": 12
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "platform": "Instagram",
+    "profileUrl": "https://instagram.com/fashionbrand",
+    "followers": 45600,
+    "engagementRate": 6.8,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "New summer collection dropping this weekend! 🌞",
+        "likes": 1250,
+        "shares": 89,
+        "comments": 156
+      },
+      {
+        "id": 2,
+        "content": "Behind the scenes at our latest photoshoot",
+        "likes": 987,
+        "shares": 45,
+        "comments": 78
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "platform": "Facebook",
+    "profileUrl": "https://facebook.com/fooddelivery",
+    "followers": 23400,
+    "engagementRate": 3.9,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "Free delivery on orders over $25 this week!",
+        "likes": 342,
+        "shares": 67,
+        "comments": 45
+      },
+      {
+        "id": 2,
+        "content": "Try our new healthy meal options",
+        "likes": 278,
+        "shares": 34,
+        "comments": 29
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "platform": "Twitter",
+    "profileUrl": "https://twitter.com/consultingfirm",
+    "followers": 8900,
+    "engagementRate": 5.1,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "5 key strategies for digital transformation in 2024",
+        "likes": 156,
+        "shares": 89,
+        "comments": 23
+      },
+      {
+        "id": 2,
+        "content": "Webinar tomorrow: Future of Remote Work",
+        "likes": 98,
+        "shares": 45,
+        "comments": 12
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "platform": "TikTok",
+    "profileUrl": "https://tiktok.com/@fashionbrand",
+    "followers": 78900,
+    "engagementRate": 9.2,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "Quick styling tips for your wardrobe",
+        "likes": 2340,
+        "shares": 456,
+        "comments": 234
+      },
+      {
+        "id": 2,
+        "content": "Sustainable fashion choices that matter",
+        "likes": 1890,
+        "shares": 342,
+        "comments": 189
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "platform": "LinkedIn",
+    "profileUrl": "https://linkedin.com/company/healthcareclinic",
+    "followers": 5600,
+    "engagementRate": 3.4,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "Important health screening reminders for the new year",
+        "likes": 89,
+        "shares": 23,
+        "comments": 8
+      },
+      {
+        "id": 2,
+        "content": "Meet our new specialist joining the team",
+        "likes": 67,
+        "shares": 12,
+        "comments": 5
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "platform": "Instagram",
+    "profileUrl": "https://instagram.com/designstudio",
+    "followers": 34200,
+    "engagementRate": 7.3,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "Fresh brand identity for our latest client 🎨",
+        "likes": 890,
+        "shares": 76,
+        "comments": 45
+      },
+      {
+        "id": 2,
+        "content": "Color psychology in modern design",
+        "likes": 654,
+        "shares": 34,
+        "comments": 28
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "platform": "Facebook",
+    "profileUrl": "https://facebook.com/realestateteam",
+    "followers": 19800,
+    "engagementRate": 4.6,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "Market update: Spring buying season trends",
+        "likes": 234,
+        "shares": 45,
+        "comments": 32
+      },
+      {
+        "id": 2,
+        "content": "Just sold: Beautiful family home in downtown",
+        "likes": 189,
+        "shares": 28,
+        "comments": 19
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "platform": "Instagram",
+    "profileUrl": "https://instagram.com/restaurantgroup",
+    "followers": 28700,
+    "engagementRate": 5.8,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "Chef's special: Pan-seared salmon with seasonal vegetables 🍽️",
+        "likes": 567,
+        "shares": 89,
+        "comments": 76
+      },
+      {
+        "id": 2,
+        "content": "Wine pairing evening this Friday",
+        "likes": 434,
+        "shares": 56,
+        "comments": 43
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "platform": "Twitter",
+    "profileUrl": "https://twitter.com/educationplatform",
+    "followers": 15600,
+    "engagementRate": 6.1,
+    "recentPosts": [
+      {
+        "id": 1,
+        "content": "New course launched: Advanced Data Science Techniques",
+        "likes": 234,
+        "shares": 89,
+        "comments": 45
+      },
+      {
+        "id": 2,
+        "content": "Student success story: From beginner to data analyst in 6 months",
+        "likes": 189,
+        "shares": 67,
+        "comments": 23
+      }
+    ]
+  }
+]

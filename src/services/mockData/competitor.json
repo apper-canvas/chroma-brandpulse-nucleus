@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "name": "TechFlow Solutions",
+    "domain": "techflowsolutions.com",
+    "websiteMetrics": {
+      "mobileScore": 89,
+      "loadSpeed": 76,
+      "seoScore": 92
+    },
+    "socialMetrics": {
+      "totalFollowers": 34500,
+      "avgEngagement": 5.2,
+      "platforms": 4
+    },
+    "advantages": [
+      "Faster loading speed",
+      "Better mobile experience",
+      "Higher social engagement"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "DataDrive Analytics",
+    "domain": "datadriveanalytics.com",
+    "websiteMetrics": {
+      "mobileScore": 93,
+      "loadSpeed": 82,
+      "seoScore": 87
+    },
+    "socialMetrics": {
+      "totalFollowers": 28900,
+      "avgEngagement": 4.8,
+      "platforms": 5
+    },
+    "advantages": [
+      "Superior mobile optimization",
+      "More frequent content updates",
+      "Better SEO structure"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "CloudSync Pro",
+    "domain": "cloudsyncpro.com",
+    "websiteMetrics": {
+      "mobileScore": 85,
+      "loadSpeed": 91,
+      "seoScore": 84
+    },
+    "socialMetrics": {
+      "totalFollowers": 42100,
+      "avgEngagement": 6.1,
+      "platforms": 4
+    },
+    "advantages": [
+      "Exceptional loading speed",
+      "Higher follower count",
+      "Better content engagement"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "InnovateLab",
+    "domain": "innovatelab.com",
+    "websiteMetrics": {
+      "mobileScore": 78,
+      "loadSpeed": 74,
+      "seoScore": 96
+    },
+    "socialMetrics": {
+      "totalFollowers": 19800,
+      "avgEngagement": 3.9,
+      "platforms": 3
+    },
+    "advantages": [
+      "Outstanding SEO performance",
+      "Better keyword rankings"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "DigitalEdge Corp",
+    "domain": "digitaledgecorp.com",
+    "websiteMetrics": {
+      "mobileScore": 91,
+      "loadSpeed": 79,
+      "seoScore": 89
+    },
+    "socialMetrics": {
+      "totalFollowers": 56200,
+      "avgEngagement": 7.3,
+      "platforms": 5
+    },
+    "advantages": [
+      "Largest social media following",
+      "Highest engagement rates",
+      "More platform diversity"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "SmartBiz Tools",
+    "domain": "smartbiztools.com",
+    "websiteMetrics": {
+      "mobileScore": 87,
+      "loadSpeed": 85,
+      "seoScore": 81
+    },
+    "socialMetrics": {
+      "totalFollowers": 31400,
+      "avgEngagement": 4.5,
+      "platforms": 4
+    },
+    "advantages": [
+      "Consistent performance across metrics",
+      "Better user experience design"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "NextGen Platforms",
+    "domain": "nextgenplatforms.com",
+    "websiteMetrics": {
+      "mobileScore": 94,
+      "loadSpeed": 88,
+      "seoScore": 93
+    },
+    "socialMetrics": {
+      "totalFollowers": 47800,
+      "avgEngagement": 5.8,
+      "platforms": 5
+    },
+    "advantages": [
+      "Top mobile performance",
+      "Excellent overall metrics",
+      "Strong brand presence"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ProActive Systems",
+    "domain": "proactivesystems.com",
+    "websiteMetrics": {
+      "mobileScore": 82,
+      "loadSpeed": 77,
+      "seoScore": 88
+    },
+    "socialMetrics": {
+      "totalFollowers": 23600,
+      "avgEngagement": 4.2,
+      "platforms": 3
+    },
+    "advantages": [
+      "Good SEO optimization",
+      "Solid overall performance"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "FutureSync Tech",
+    "domain": "futuresynctech.com",
+    "websiteMetrics": {
+      "mobileScore": 88,
+      "loadSpeed": 92,
+      "seoScore": 85
+    },
+    "socialMetrics": {
+      "totalFollowers": 38900,
+      "avgEngagement": 6.4,
+      "platforms": 4
+    },
+    "advantages": [
+      "Fastest website performance",
+      "High engagement quality",
+      "Regular content publishing"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "AgileFlow Dynamics",
+    "domain": "agileflowdynamics.com",
+    "websiteMetrics": {
+      "mobileScore": 90,
+      "loadSpeed": 81,
+      "seoScore": 94
+    },
+    "socialMetrics": {
+      "totalFollowers": 41200,
+      "avgEngagement": 5.6,
+      "platforms": 5
+    },
+    "advantages": [
+      "Excellent SEO performance",
+      "Strong mobile optimization",
+      "Comprehensive social presence"
+    ]
+  }
+]
