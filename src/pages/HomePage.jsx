@@ -79,55 +79,55 @@ const HomePage = () => {
     setShowExportModal(false)
   }
 
-  const overallScore = websiteData ? Math.round((websiteData.mobileScore + websiteData.loadSpeed + websiteData.seoScore) / 3) : 0;
+const overallScore = websiteData ? Math.round((websiteData.mobileScore + websiteData.loadSpeed + websiteData.seoScore) / 3) : 0;
 
   return (
-    &lt;HomePageTemplate&gt;
-      &lt;div className="max-w-6xl mx-auto"&gt;
-        &lt;UrlAnalysisForm
+    <HomePageTemplate>
+      <div className="max-w-6xl mx-auto">
+        <UrlAnalysisForm
           url={url}
           setUrl={setUrl}
           loading={loading}
           currentStep={currentStep}
           onAnalyze={analyzeWebsite}
-        /&gt;
+        />
 
-        &lt;AnimatePresence&gt;
+        <AnimatePresence>
           {analysisComplete && websiteData && (
-            &lt;motion.div
+            <motion.div
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -20 }}
               transition={{ duration: 0.8 }}
               className="space-y-8"
-            &gt;
-              &lt;ReportSummary
+            >
+              <ReportSummary
                 url={websiteData.url}
                 date={new Date().toLocaleDateString()}
                 overallScore={overallScore}
                 onExportClick={() => setShowExportModal(true)}
-              /&gt;
+              />
 
-              &lt;WebsiteMetricsSection websiteData={websiteData} /&gt;
+              <WebsiteMetricsSection websiteData={websiteData} />
 
               {socialData?.length > 0 && (
-                &lt;SocialMediaSection data={socialData} /&gt;
+                <SocialMediaSection data={socialData} />
               )}
 
               {competitorData?.length > 0 && (
-                &lt;CompetitorTable data={competitorData} /&gt;
+                <CompetitorTable data={competitorData} />
               )}
-            &lt;/motion.div&gt;
+            </motion.div>
           )}
-        &lt;/AnimatePresence&gt;
+        </AnimatePresence>
 
-        &lt;ExportReportModal
+        <ExportReportModal
           show={showExportModal}
           onClose={() => setShowExportModal(false)}
           onExport={exportReport}
-        /&gt;
-      &lt;/div&gt;
-    &lt;/HomePageTemplate&gt;
+        />
+      </div>
+    </HomePageTemplate>
   )
 }
 
