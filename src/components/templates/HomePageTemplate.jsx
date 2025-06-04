@@ -10,8 +10,9 @@ const HomePageTemplate = ({ children }) => {
   const toggleDarkMode = () => {
     setDarkMode(!darkMode)
     document.documentElement.classList.toggle('dark')
-  }
-return (
+}
+
+  return (
     <div className={`min-h-screen relative grain-texture ${darkMode ? 'dark' : ''}`}>
       <PageHeader darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <HeroSection />
